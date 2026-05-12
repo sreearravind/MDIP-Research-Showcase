@@ -1,0 +1,1 @@
+This repository currently provides public-facing project documentation only. Final licensing for software components and datasets will be determined based on institutional review and project release policy. Planned release model: Apache 2.0 for selected software components and CC BY 4.0 for selected documentation/datasets where applicable.
